@@ -1,7 +1,7 @@
 import path from 'path';
 
 const src = path.join(__dirname, '../app');
-const dist = path.join(__dirname, '../dist');
+const dist = path.join(__dirname, '../ak-mdl.github.io');
 const temp = path.join(__dirname, '../.tmp');
 
 const AUTOPREFIXER = [

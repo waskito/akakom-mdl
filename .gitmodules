@@ -1,0 +1,3 @@
+[submodule "ak-mdl.github.io"]
+	path = ak-mdl.github.io
+	url = git@github.com:ak-mdl/ak-mdl.github.io.git

@@ -2,5 +2,5 @@
 @import 'globals/reset.css';
 
 /* Demo */
-@import 'demo/demo.css';
 @import 'demo/view-source.css';
+@import 'akakom/akakom.css';

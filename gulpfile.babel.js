@@ -84,7 +84,7 @@ const clean = () => {
   gutil.log('Cleaning workspace directory');
 
   return del([
-    config.dist,
+    'ak-mdl.github.io/**/*',
     config.temp
   ]);
 };
